@@ -1,0 +1,17 @@
+  email:
+    name: Gmail
+    icon: icon-mail
+    prepend: 'lindavy96@gmail.com'
+  twitter:
+    name: Twitter
+    icon: icon-twitter
+    prepend: 'https://twitter.com/lindavyy'
+  github:
+    name: GitHub
+    icon: icon-github
+    prepend: "https://github.com/lindatvy"
+ 
+  linkedin:
+    name: LinkedIn
+    icon: icon-linkedin2
+    prepend: "https://linkedin.com/in/lindavy"
